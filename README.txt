@@ -1,2 +1,1 @@
-"Hello,Git" 
-"There is vitalii"
+This is completely new commit
